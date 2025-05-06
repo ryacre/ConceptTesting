@@ -3,3 +3,5 @@ changes on the main branch. The changes of file NewBranchFile.txt that is part o
 these changes. In the graph.
 
 making changes to text.txt on main branch
+This time I am modifying the same file test.txt, which can result in a conflict or even possibly a merge? Because the change is actually done on the main branch,
+we will see.
