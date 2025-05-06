@@ -1,3 +1,5 @@
 Modifying test.txt
 changes on the main branch. The changes of file NewBranchFile.txt that is part of FirstGame branch should be applied on top of 
 these changes. In the graph.
+
+making changes to text.txt on main branch
