@@ -8,3 +8,5 @@ we will see.
 This time I am changing test.txt it should up last in the history.
 Simple test modification, to be used in rebasing inside lazygit.
 This change is on the same file but in main,conflict testing with lazygit
+Ok this time we are going to modify the same file and create a conflict inside lazy git
+to see how it handles it
