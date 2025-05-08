@@ -6,3 +6,4 @@ making changes to text.txt on main branch
 This time I am modifying the same file test.txt, which can result in a conflict or even possibly a merge? Because the change is actually done on the main branch,
 we will see.
 This time I am changing test.txt it should up last in the history.
+Simple test modification, to be used in rebasing inside lazygit.
