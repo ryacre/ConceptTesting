@@ -7,3 +7,4 @@ This time I am modifying the same file test.txt, which can result in a conflict 
 we will see.
 This time I am changing test.txt it should up last in the history.
 Simple test modification, to be used in rebasing inside lazygit.
+This change is on the same file but in main,conflict testing with lazygit
