@@ -12,6 +12,8 @@ Ok this time we are going to modify the same file and create a conflict inside l
 to see how it handles it
 
 Lets try to stage individual lines.
+1 line
 2 line
 3 line
+4 line
 5 line
