@@ -10,3 +10,8 @@ Simple test modification, to be used in rebasing inside lazygit.
 This change is on the same file but in main,conflict testing with lazygit
 Ok this time we are going to modify the same file and create a conflict inside lazy git
 to see how it handles it
+
+Lets try to stage individual lines.
+2 line
+3 line
+5 line
