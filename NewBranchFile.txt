@@ -12,3 +12,5 @@ line b
 line c
 line dstage this line
 stage this line
+We had two lines that were unstaged prior.
+What happened to them?
