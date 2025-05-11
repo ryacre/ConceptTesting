@@ -10,4 +10,5 @@ Line testing again
 line a
 line b
 line c
-line d
+line dstage this line
+stage this line
