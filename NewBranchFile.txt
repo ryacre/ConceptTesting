@@ -20,4 +20,5 @@ don't stage this line
 
 We had two lines that were unstaged prior.
 What happened to them?
-Lets try this diff window full screen did they add it after 4 years?
+Lets try this diff window full screen did they add it after 4 years?-->
+adding some changes that i am not going to merge yet.
